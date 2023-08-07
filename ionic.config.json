@@ -1,0 +1,7 @@
+{
+  "name": "diklatMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
