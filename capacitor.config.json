@@ -1,0 +1,20 @@
+
+{
+  "appId": "id.bmkg.maritim",
+  "appName": "Info Maritim",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+
+  "plugins": {
+    "CapacitorHttp": {
+    "enabled": true
+    }
+    }
+}
+
+
+
+
+
